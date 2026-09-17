@@ -1,0 +1,11 @@
+{
+  "Coins": 140,
+  "ClickPower": 11,
+  "AutoClickers": 7,
+  "UpgradeCost": 10240,
+  "AutoClickerCost": 6400,
+  "CritUpgradeCost": 9762,
+  "SpeedUpgradeCost": 4800,
+  "CritChance": 0.025,
+  "AutoClickerDelay": 500
+}
